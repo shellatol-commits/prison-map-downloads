@@ -1,4 +1,4 @@
->[Click here to go to downloads page](https://shellatols-prison-map-pmc.com)
+>[Click here to go to downloads page](https://shellatol-commits.github.io/prison-map-downloads)
 <body>
 <style>
   body {
